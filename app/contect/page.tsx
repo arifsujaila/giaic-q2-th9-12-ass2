@@ -1,4 +1,3 @@
-import Link from "next/link"
 import React from 'react'
 import styles from './contect.module.css'
 import Header from "../component/header/header"
