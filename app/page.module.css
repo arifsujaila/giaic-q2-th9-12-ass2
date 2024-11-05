@@ -1,0 +1,28 @@
+.nevbar1{
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  list-style-type: none;
+  
+}
+
+.nevbar{
+  background-color: bisque;
+}
+
+.font{
+  color: blueviolet;
+    font-weight: 500;
+    font-style: italic;
+    margin-top: 10%;
+    text-align: center;
+ }
+
+.pagecolor{
+  background-color: rgb(118, 118, 173);
+}
+
+.maindiv{
+  background-color: rgb(59, 161, 161);
+  
+}
